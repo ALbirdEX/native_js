@@ -1,3 +1,4 @@
+/*
 const ages = [18, 20, 22, 1, 100, 90, 14]
 
 const predicate = (ages: number) => {
@@ -25,4 +26,4 @@ const cheapPredicate = (course: CourseType) => {
 const cheapCourses = [
     {title: "CSS", price: 110},     // < 160
     {title: "REACT", price: 150},
-]
+]*/
