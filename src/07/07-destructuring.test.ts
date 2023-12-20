@@ -1,4 +1,4 @@
-import {MamType} from "./destructuring";
+import {MamType} from "./07-destructuring";
 
 let props: MamType;
 beforeEach(() => {
