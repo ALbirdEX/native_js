@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       {`Меня зовут ${student.name}, мне ${student.age} лет`}
+        <div>Импортируй компонент сюда</div>
     </div>
   );
 }
